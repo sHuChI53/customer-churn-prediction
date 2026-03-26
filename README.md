@@ -4,6 +4,8 @@
 
 This project focuses on predicting telecom customer churn using machine learning. Customer churn prediction helps businesses identify customers who are likely to discontinue services so they can take proactive retention measures.
 
+This project was completed as part of a Machine Learning assignment provided by Sabudh Foundation.
+
 ## Objective
 
 The main objective of this project is to build a predictive model that identifies customers who are likely to churn based on historical telecom customer data.
